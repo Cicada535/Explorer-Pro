@@ -1,1 +1,1 @@
-# PyUIrama
+# PyGUIrama
