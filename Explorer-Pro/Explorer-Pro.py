@@ -16,7 +16,7 @@ root.configure(background="gray11")
 root.title('Explorer Pro')
 
 # Добавляем иконку
-root.iconphoto(False, PhotoImage(file="Explorer-Pro\Explorer-Pro.png"))
+root.iconphoto(False, PhotoImage(file="Explorer-Pro-main\Explorer-Pro\Explorer-Pro.png"))
 
 # Создаём текстовое поле для кода
 code_editor = tk.Text(root, background="gray11", foreground="white", insertbackground="white")
