@@ -6,7 +6,7 @@
 **(RU)** Чтобы использовать **Explorer Pro**, просто откройте приложение и вставьте или напишите свой код в панель редактора кода. Затем нажмите кнопку `Запустить`, чтобы запустить код. Вывод кода отобразится **в консоли**
 
 **(EN)** To use **Explorer Pro**, simply open the application and paste or write your code into the code editor panel. Then click the `Запустить` button to run the code. The code output will be displayed **in the console**
-### Технические требования: / Technical requirements:
+## Технические требования: / Technical requirements:
 - Python 3.10.0
 - Tkinter 8.6 (или больше / or more)
 > [!TIP]
