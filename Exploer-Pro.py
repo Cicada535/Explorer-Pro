@@ -15,7 +15,7 @@ root.geometry('860x560')
 root.configure(background="gray11")
 root.title('Explorer Pro')
 
-# Добавляем картинку
+# Добавляем иконку
 root.iconphoto(False, PhotoImage(file="Explorer-Pro.png"))
 
 # Создаём текстовое поле для кода
