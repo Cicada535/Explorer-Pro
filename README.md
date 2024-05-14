@@ -1,4 +1,4 @@
-# ![ ](/../main/Explorer Pro/Explorer-Pro.png) Explorer Pro
+# ![ ](/../main/Explorer-Pro/Explorer-Pro.png) Explorer Pro
 **(RU) Explorer Pro** - это простой, но мощный карманный редактор кода, который идеально подходит для редактирования и запуска кода на ходу. Также, у него имеется подсветка синтаксиса, возможность запуска кода и удобный интерфейсом.
 
 **(EN) Explorer Pro** is a simple but powerful pocket-sized code editor that is perfect for editing and running code on the go. It also has syntax highlighting, the ability to run code and a user-friendly interface.
